@@ -1,0 +1,17 @@
+C:\Users\alex\Documents\fORMS\WeeklyIncomeTracker\WeeklyIncomeTracker\bin\Release\netcoreapp3.1\WeeklyIncomeTracker.exe
+C:\Users\alex\Documents\fORMS\WeeklyIncomeTracker\WeeklyIncomeTracker\bin\Release\netcoreapp3.1\WeeklyIncomeTracker.deps.json
+C:\Users\alex\Documents\fORMS\WeeklyIncomeTracker\WeeklyIncomeTracker\bin\Release\netcoreapp3.1\WeeklyIncomeTracker.runtimeconfig.json
+C:\Users\alex\Documents\fORMS\WeeklyIncomeTracker\WeeklyIncomeTracker\bin\Release\netcoreapp3.1\WeeklyIncomeTracker.runtimeconfig.dev.json
+C:\Users\alex\Documents\fORMS\WeeklyIncomeTracker\WeeklyIncomeTracker\bin\Release\netcoreapp3.1\WeeklyIncomeTracker.dll
+C:\Users\alex\Documents\fORMS\WeeklyIncomeTracker\WeeklyIncomeTracker\bin\Release\netcoreapp3.1\WeeklyIncomeTracker.pdb
+C:\Users\alex\Documents\fORMS\WeeklyIncomeTracker\WeeklyIncomeTracker\obj\Release\netcoreapp3.1\WeeklyIncomeTracker.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\fORMS\WeeklyIncomeTracker\WeeklyIncomeTracker\obj\Release\netcoreapp3.1\WeeklyIncomeTracker.IncomeTracker.resources
+C:\Users\alex\Documents\fORMS\WeeklyIncomeTracker\WeeklyIncomeTracker\obj\Release\netcoreapp3.1\WeeklyIncomeTracker.Form2.resources
+C:\Users\alex\Documents\fORMS\WeeklyIncomeTracker\WeeklyIncomeTracker\obj\Release\netcoreapp3.1\WeeklyIncomeTracker.csproj.GenerateResource.cache
+C:\Users\alex\Documents\fORMS\WeeklyIncomeTracker\WeeklyIncomeTracker\obj\Release\netcoreapp3.1\WeeklyIncomeTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Documents\fORMS\WeeklyIncomeTracker\WeeklyIncomeTracker\obj\Release\netcoreapp3.1\WeeklyIncomeTracker.AssemblyInfoInputs.cache
+C:\Users\alex\Documents\fORMS\WeeklyIncomeTracker\WeeklyIncomeTracker\obj\Release\netcoreapp3.1\WeeklyIncomeTracker.AssemblyInfo.cs
+C:\Users\alex\Documents\fORMS\WeeklyIncomeTracker\WeeklyIncomeTracker\obj\Release\netcoreapp3.1\WeeklyIncomeTracker.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\fORMS\WeeklyIncomeTracker\WeeklyIncomeTracker\obj\Release\netcoreapp3.1\WeeklyIncomeTracker.dll
+C:\Users\alex\Documents\fORMS\WeeklyIncomeTracker\WeeklyIncomeTracker\obj\Release\netcoreapp3.1\WeeklyIncomeTracker.pdb
+C:\Users\alex\Documents\fORMS\WeeklyIncomeTracker\WeeklyIncomeTracker\obj\Release\netcoreapp3.1\WeeklyIncomeTracker.genruntimeconfig.cache
